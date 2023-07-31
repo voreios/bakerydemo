@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python:3.11.3-slim
 
 # Install packages needed to run your application (not build deps):
 # We need to recreate the /usr/share/man/man{1..8} directories first because
